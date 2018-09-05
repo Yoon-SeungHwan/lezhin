@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">레진코믹스_윤승환</string>
+    <string name="greeting">안녕하세요? 윤승환입니다!</string>
+    <string name="action_search">Search</string>
+    <string name="action_close">Close</string>
+    <string name="toolbar_search_hint">작품 제목, 작가 이름</string>
+    <string name="format_image_size">%1$d X %2$d</string>
+    <string name="transition_search_result">image_search_result</string>
+
+    <string name="error_no_result">검색 결과가 없습니다.</string>
+    <string name="error_connection_status">접속 상태가 원할하지 않습니다.</string>
+
+    <string name="alert_first_page">첫 번째 페이지 입니다.</string>
+    <string name="alert_last_page">마지막 페이지 입니다.</string>
+</resources>

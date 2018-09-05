@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="toolbar_text_view_margin">10dp</dimen>
+    <dimen name="toolbar_vertical_padding">10dp</dimen>
+    <dimen name="search_result_card_height">148dp</dimen>
+    <dimen name="search_result_card_padding_left">16dp</dimen>
+    <dimen name="search_result_card_padding_right">16dp</dimen>
+    <dimen name="search_result_card_padding_top">16dp</dimen>
+    <dimen name="search_result_card_padding_bottom">16dp</dimen>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.AppCompatButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/button"
+    android:layout_width="0dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_weight="1"
+    android:layout_height="match_parent"
+    android:text="0"
+    android:background="?attr/selectableItemBackground"
+    android:textColor="@drawable/paging_text_color"
+    app:backgroundTint="@android:color/white" />
